@@ -125,7 +125,7 @@ attendance-system/
 2. Create a feature branch (`git checkout -b feature/my-change`)
 3. Commit your changes (`git commit -am "Add feature"`)
 4. Push to your branch (`git push origin feature/my-change`)
-5. Open a Pull Request
+5. Open a Pull Request.
 
 ---
 
